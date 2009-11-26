@@ -3,5 +3,6 @@ glob:*.user
 glob:*.suo
 glob:*.vcproj
 relre:Makefile
-relre:doc/
 glob:*.sln
+glob:*.ncb
+relre:doc/html
