@@ -61,7 +61,8 @@ RESOURCES += ../third_party/skins/thermometer_svgdialgauge.qrc \
     ../third_party/skins/beryl_scrollwheel.qrc \
     ../third_party/skins/beryl_scrolldial.qrc \
     ../third_party/skins/metallicbrush_svgbutton.qrc \
-    ../third_party/skins/metallicbrush_svgslideswitch.qrc
+    ../third_party/skins/metallicbrush_svgslideswitch.qrc \
+    ../third_party/iuskins/iuskins.qrc
 MOC_DIR += ./GeneratedFiles/release
 OBJECTS_DIR += release
 DEFINES += QT_LARGEFILE_SUPPORT \
