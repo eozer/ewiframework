@@ -34,6 +34,7 @@
 #include "qt5waybuttonplugin.h"
 #include "svgbuttonplugin.h"
 #include "svgdialgaugeplugin.h"
+#include "svgslideswitchplugin.h"
 
  EWIFrameworkWidgetCollection::EWIFrameworkWidgetCollection(QObject *parent) : QObject(parent)
  {
@@ -41,6 +42,7 @@
      widgets.append(new Qt5WayButtonPlugin(this));
      widgets.append(new SVGButtonPlugin(this));
      widgets.append(new SVGDialGaugePlugin(this));
+     widgets.append(new SVGSlideSwitchPlugin(this));
  }
 
  QList<QDesignerCustomWidgetInterface*> EWIFrameworkWidgetCollection::customWidgets() const
