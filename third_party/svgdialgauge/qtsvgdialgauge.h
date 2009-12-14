@@ -16,7 +16,7 @@
 class QSvgRenderer;
 class QtSvgPixmapCache;
 
-class QDESIGNER_WIDGET_EXPORT QtSvgDialGauge : public QWidget
+class QtSvgDialGauge : public QWidget
 {
     Q_OBJECT
     Q_PROPERTY(QString skin READ skin WRITE setSkin)

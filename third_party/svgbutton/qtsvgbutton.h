@@ -15,7 +15,7 @@
 
 class QSvgRenderer;
 
-class QDESIGNER_WIDGET_EXPORT QtSvgButton : public QAbstractButton
+class QtSvgButton : public QAbstractButton
 {
     Q_OBJECT
     Q_PROPERTY(QString skin READ skin WRITE setSkin)

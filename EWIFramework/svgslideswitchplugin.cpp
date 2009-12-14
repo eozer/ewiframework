@@ -90,7 +90,7 @@ bool SVGSlideSwitchPlugin::isContainer() const
 
 QString SVGSlideSwitchPlugin::includeFile() const
 {
-     return "<QtSvgDialGauge>";
+     return "<QtSvgSlideSwitch>";
 }
 
 QString SVGSlideSwitchPlugin::domXml() const

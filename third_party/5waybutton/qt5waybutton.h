@@ -20,7 +20,7 @@ class QtSvgPixmapCache;
 class NavigationButton;
 
 
-class QDESIGNER_WIDGET_EXPORT Qt5WayButton : public QWidget
+class Qt5WayButton : public QWidget
 {
     Q_OBJECT
     Q_PROPERTY(QString skin READ skin WRITE setSkin)
