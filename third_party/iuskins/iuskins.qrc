@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/" >
+    <qresource prefix="/">
         <file>svgbutton/abs/green/hovered.svg</file>
         <file>svgbutton/abs/green/normal.svg</file>
         <file>svgbutton/abs/green/pressed.svg</file>
@@ -63,5 +63,59 @@
         <file>svgbutton/presion/yellow/hovered.svg</file>
         <file>svgbutton/presion/yellow/normal.svg</file>
         <file>svgbutton/presion/yellow/pressed.svg</file>
+        <file>svgbutton/base/green/hovered.svg</file>
+        <file>svgbutton/base/green/normal.svg</file>
+        <file>svgbutton/base/green/pressed.svg</file>
+        <file>svgbutton/base/red/hovered.svg</file>
+        <file>svgbutton/base/red/normal.svg</file>
+        <file>svgbutton/base/red/pressed.svg</file>
+        <file>svgbutton/base/yellow/hovered.svg</file>
+        <file>svgbutton/base/yellow/normal.svg</file>
+        <file>svgbutton/base/yellow/pressed.svg</file>
+        <file>svgbutton/luces/green/hovered.svg</file>
+        <file>svgbutton/luces/green/normal.svg</file>
+        <file>svgbutton/luces/green/pressed.svg</file>
+        <file>svgbutton/luces/red/hovered.svg</file>
+        <file>svgbutton/luces/red/normal.svg</file>
+        <file>svgbutton/luces/red/pressed.svg</file>
+        <file>svgbutton/luces/yellow/hovered.svg</file>
+        <file>svgbutton/luces/yellow/normal.svg</file>
+        <file>svgbutton/luces/yellow/pressed.svg</file>
+        <file>svgbutton/rpm/green/hovered.svg</file>
+        <file>svgbutton/rpm/green/normal.svg</file>
+        <file>svgbutton/rpm/green/pressed.svg</file>
+        <file>svgbutton/rpm/red/hovered.svg</file>
+        <file>svgbutton/rpm/red/normal.svg</file>
+        <file>svgbutton/rpm/red/pressed.svg</file>
+        <file>svgbutton/rpm/yellow/hovered.svg</file>
+        <file>svgbutton/rpm/yellow/normal.svg</file>
+        <file>svgbutton/rpm/yellow/pressed.svg</file>
+        <file>svgbutton/suspension/green/hovered.svg</file>
+        <file>svgbutton/suspension/green/normal.svg</file>
+        <file>svgbutton/suspension/green/pressed.svg</file>
+        <file>svgbutton/suspension/red/hovered.svg</file>
+        <file>svgbutton/suspension/red/normal.svg</file>
+        <file>svgbutton/suspension/red/pressed.svg</file>
+        <file>svgbutton/suspension/yellow/hovered.svg</file>
+        <file>svgbutton/suspension/yellow/normal.svg</file>
+        <file>svgbutton/suspension/yellow/pressed.svg</file>
+        <file>svgbutton/temperatura/green/hovered.svg</file>
+        <file>svgbutton/temperatura/green/normal.svg</file>
+        <file>svgbutton/temperatura/green/pressed.svg</file>
+        <file>svgbutton/temperatura/red/hovered.svg</file>
+        <file>svgbutton/temperatura/red/normal.svg</file>
+        <file>svgbutton/temperatura/red/pressed.svg</file>
+        <file>svgbutton/temperatura/yellow/hovered.svg</file>
+        <file>svgbutton/temperatura/yellow/normal.svg</file>
+        <file>svgbutton/temperatura/yellow/pressed.svg</file>
+        <file>svgbutton/velocidad/green/hovered.svg</file>
+        <file>svgbutton/velocidad/green/normal.svg</file>
+        <file>svgbutton/velocidad/green/pressed.svg</file>
+        <file>svgbutton/velocidad/red/hovered.svg</file>
+        <file>svgbutton/velocidad/red/normal.svg</file>
+        <file>svgbutton/velocidad/red/pressed.svg</file>
+        <file>svgbutton/velocidad/yellow/hovered.svg</file>
+        <file>svgbutton/velocidad/yellow/normal.svg</file>
+        <file>svgbutton/velocidad/yellow/pressed.svg</file>
     </qresource>
 </RCC>
